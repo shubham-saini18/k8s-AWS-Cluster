@@ -172,12 +172,4 @@ terraform destroy -var="ssh_key_name=your-aws-ssh-key"
 
 ---
 
-## Contributing
 
-Contributions and improvements are welcome. Open issues or PRs for bug fixes, docs, or feature additions.
-
----
-
-## License
-
-MIT — see LICENSE (add a LICENSE file if you want to publish this publicly).
