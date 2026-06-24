@@ -25,8 +25,6 @@ This repository boots a small cluster (1 control-plane, 2 workers) using contain
 - Tear down
 - Where you can use this
 - Why this is useful
-- Contributing
-- License
 
 ---
 
